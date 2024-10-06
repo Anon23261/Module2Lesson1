@@ -1,2 +1,2 @@
-# ShowcaseYourDanceMoves.py
+# ShowcaseYourDanceMoves
 Module2Lesson1
